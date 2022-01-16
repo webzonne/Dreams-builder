@@ -300,7 +300,7 @@ box-sizing: border-box;
 .modal-mobile{
     font-family: roboto, sans-serif;
     background: white;
-    width: 400px;
+    width: 368px;
     height: 100vh;
     overflow: scroll;
     margin: auto;
